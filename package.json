@@ -1,0 +1,29 @@
+{
+  "name": "flyd-sampleon",
+  "version": "1.0.0",
+  "description": "sampleOn for Flyd",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paldepind/flyd-sampleon.git"
+  },
+  "keywords": [
+    "flyd",
+    "sampleon"
+  ],
+  "author": "Simon Friis Vindum",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paldepind/flyd-sampleon/issues"
+  },
+  "homepage": "https://github.com/paldepind/flyd-sampleon",
+  "dependencies": {
+    "flyd": "0.0.6"
+  }
+}
