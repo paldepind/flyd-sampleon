@@ -1,6 +1,6 @@
 {
   "name": "flyd-sampleon",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "sampleOn for Flyd",
   "main": "sampleon.js",
   "directories": {
@@ -24,6 +24,6 @@
   },
   "homepage": "https://github.com/paldepind/flyd-sampleon",
   "dependencies": {
-    "flyd": "0.0.x"
+    "flyd": "0.1.x"
   }
 }
